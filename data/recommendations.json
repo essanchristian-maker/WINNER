@@ -88,5 +88,4415 @@
         "duration_min": 45,
         "calories_target": 280,
         "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Emmanuel Yao",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Veronique Kouassi",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Celestine Tape",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Pierre Konate",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Francoise Kone",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Veronique N'Guessan",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Nadege Diarra",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Sylvie Ouedraogo",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Isabelle N'Guessan",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Christiane Doumbia",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Marie Toure",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Olivier Brou",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Jacques Diarra",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Pierre Kouassi",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Francoise Toure",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Pierre Toure",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Pierre Kouassi",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Jean-Baptiste Kone",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Francoise Toure",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Olivier Kouassi",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Monique Bamba",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Michel Tape",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Olivier Gnagne",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Serge Ake",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Nadege Ake",
+        "goal": "stress_relief",
+        "activity_level": "low",
+        "workout": "Stretching",
+        "duration_min": 20,
+        "calories_target": 100,
+        "message": "Based on your activity, try a 20-min Stretching session today."
+    },
+    {
+        "user": "Emmanuel Kouassi",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Celestine Bamba",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Nadege Toure",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Patrice Soro",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jean-Baptiste Camara",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Marie Ouedraogo",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Michel Soro",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Christian Ouedraogo",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Francoise N'Guessan",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Philippe Assoumou",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Veronique Brou",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Isabelle Diallo",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Francoise Camara",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Nadege Diarra",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Christian Konate",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Patrice Tape",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Jacques Ake",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Olivier Kouassi",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Sylvie Soro",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Marie Ake",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Emmanuel Diallo",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Emmanuel Assoumou",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Michel Yao",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Christine Gnagne",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Veronique Tape",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Sylvie Diallo",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Serge Doumbia",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Christine Soro",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Marie Ouedraogo",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Marie Diallo",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Christine Assoumou",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Nadege Ouedraogo",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Olivier Soro",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Marie Camara",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Nadege Toure",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Francoise N'Guessan",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Francoise Toure",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Philippe Kone",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Veronique Camara",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Serge Konate",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Jean-Baptiste Yao",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Isabelle Tape",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Marie Bamba",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Jean-Baptiste Kouassi",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Veronique Gnagne",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Monique Doumbia",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Christiane Gnagne",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Sylvie N'Guessan",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Emmanuel Camara",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Olivier Diarra",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Pierre Assoumou",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Serge Doumbia",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Francoise Diallo",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Isabelle Coulibaly",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Olivier N'Guessan",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Sylvie Ouedraogo",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Christian Kouassi",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Marie Bamba",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Jean-Baptiste Gnagne",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Pierre Konate",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Olivier Konate",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Olivier Kouassi",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Isabelle Diallo",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Celestine Tape",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Jacques Gnagne",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Monique Gnagne",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Philippe Brou",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Michel Tape",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Patrice Toure",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Veronique Tape",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Christiane Doumbia",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Pierre Diallo",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Philippe Brou",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Pierre Yao",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Serge Diarra",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Nadege Kouassi",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Nadege Konate",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Monique Gnagne",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Celestine Kone",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Olivier Toure",
+        "goal": "general_fitness",
+        "activity_level": "low",
+        "workout": "Walking",
+        "duration_min": 30,
+        "calories_target": 150,
+        "message": "Based on your activity, try a 30-min Walking session today."
+    },
+    {
+        "user": "Michel Coulibaly",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Olivier Toure",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Monique Camara",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Patrice Tape",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Isabelle Bamba",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Pierre Brou",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Serge Kone",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Monique Soro",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Isabelle Ouedraogo",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Sylvie N'Guessan",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Sylvie N'Guessan",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Michel Kouassi",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Nadege Tape",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Philippe Toure",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Monique Tape",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Christine Ake",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Francoise Traore",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Pierre Coulibaly",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Michel Ouedraogo",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Marie Konate",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Pierre Kouassi",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Celestine Konate",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Michel Gnagne",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Pierre Diarra",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Serge Yao",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Christian N'Guessan",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Celestine Bamba",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Olivier Diarra",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Monique N'Guessan",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Monique Coulibaly",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Marie Traore",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Michel Kouassi",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Nadege Toure",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Michel Kone",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Francoise Konate",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Christine Coulibaly",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Nadege Coulibaly",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Serge Soro",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Christiane Ouedraogo",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Pierre Kone",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Pierre Bamba",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Philippe Tape",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Serge Kone",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Nadege N'Guessan",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Celestine Ouedraogo",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Jean-Baptiste Kouassi",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jacques Assoumou",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Christine N'Guessan",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Marie Toure",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Olivier Konate",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Jacques Soro",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Celestine Assoumou",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Emmanuel Yao",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Serge Ake",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Christian Coulibaly",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Michel Tape",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Francoise Assoumou",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Pierre Ouedraogo",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Veronique Gnagne",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Michel Traore",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Celestine Camara",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Michel Konate",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Francoise Diarra",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Olivier Ouedraogo",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Isabelle Ouedraogo",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Christiane Yao",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Christian Ake",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Francoise Ake",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Monique Kone",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Sylvie Ouedraogo",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Patrice Assoumou",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Nadege Konate",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Veronique Tape",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Pierre Konate",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Michel Ouedraogo",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Emmanuel Coulibaly",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Michel Tape",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Christine Brou",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Michel Kone",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Philippe Diallo",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Philippe Soro",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Jean-Baptiste Konate",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Isabelle Gnagne",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Christiane Brou",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jacques Coulibaly",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Philippe Kone",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Veronique Tape",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Celestine Ouedraogo",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Christiane Ouedraogo",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Serge N'Guessan",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Emmanuel N'Guessan",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jean-Baptiste Diarra",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Serge Kouassi",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Olivier Gnagne",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Serge Camara",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Michel Assoumou",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Christian Coulibaly",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Veronique Brou",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Olivier Tape",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Celestine N'Guessan",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Monique Toure",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Monique Kone",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Isabelle Kouassi",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Isabelle Doumbia",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Olivier Yao",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Serge Yao",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Michel Camara",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Isabelle Ake",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Emmanuel Konate",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Christine Bamba",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Emmanuel Bamba",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Christine N'Guessan",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Olivier Bamba",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Sylvie Kouassi",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Michel Brou",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Emmanuel Toure",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Celestine Ake",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Monique Kouassi",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Michel Coulibaly",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Francoise Diarra",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Veronique Diallo",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Olivier Diarra",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Nadege Tape",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Olivier Soro",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Celestine Kouassi",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Christiane Ake",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Emmanuel Traore",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Pierre Kone",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Veronique Gnagne",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Christine Ake",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Sylvie Camara",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Isabelle Toure",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Christiane Diarra",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Veronique Konate",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Monique Assoumou",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Olivier Gnagne",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Michel Gnagne",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Nadege Diallo",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Isabelle Kone",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Jean-Baptiste Ouedraogo",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Christine Diarra",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Sylvie Soro",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Olivier Ouedraogo",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Patrice Camara",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Nadege Bamba",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Celestine Brou",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Jacques Soro",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Michel Konate",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Christine N'Guessan",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Veronique Doumbia",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Veronique Doumbia",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Patrice Konate",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Nadege Bamba",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Michel Brou",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Veronique Doumbia",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Isabelle Coulibaly",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Jean-Baptiste Kouassi",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Christiane Assoumou",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Monique Toure",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Michel Coulibaly",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Philippe Tape",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Serge Doumbia",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Serge Camara",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Patrice Soro",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Nadege Soro",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Pierre Kouassi",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Christian Gnagne",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Monique Ouedraogo",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Michel Traore",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Olivier Gnagne",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Celestine Brou",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Jean-Baptiste Gnagne",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Sylvie Diarra",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Patrice Toure",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Jacques Camara",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Patrice N'Guessan",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Patrice Coulibaly",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Celestine Diallo",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Jean-Baptiste Kone",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Isabelle Yao",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Christian Camara",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Emmanuel Coulibaly",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Marie Doumbia",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Celestine Camara",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Jean-Baptiste Doumbia",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Celestine Brou",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Francoise Assoumou",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Christine Kouassi",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Jacques N'Guessan",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Pierre Gnagne",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Nadege Assoumou",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Philippe Yao",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Monique Soro",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Pierre Traore",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Patrice Kouassi",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Christian Kouassi",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Philippe Tape",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Celestine Camara",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Christian Diarra",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Christine Ouedraogo",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Veronique Soro",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Nadege Gnagne",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Nadege Kone",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Pierre Bamba",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Serge Assoumou",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Michel Traore",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Christian Soro",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Celestine Soro",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Monique Diarra",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Olivier Soro",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Christian Camara",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Nadege Kouassi",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Pierre Tape",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Sylvie Soro",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Emmanuel Camara",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Monique Bamba",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Francoise Diallo",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Christiane Doumbia",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Monique Diallo",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Jacques Kouassi",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Serge Kone",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Isabelle Yao",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Jacques Diallo",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Marie Bamba",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Veronique Toure",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Pierre Kouassi",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Isabelle Diallo",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Philippe Ouedraogo",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Christine Toure",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Pierre Tape",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Serge N'Guessan",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Michel Traore",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Michel Bamba",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Christian Tape",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Isabelle Assoumou",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Nadege Camara",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jacques Kouassi",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Philippe Toure",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jacques Yao",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Michel Diarra",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Jean-Baptiste Ouedraogo",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Pierre Brou",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Pierre Doumbia",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Jacques Diarra",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Isabelle Tape",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Christine Soro",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Jean-Baptiste Toure",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Philippe Ake",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Veronique Brou",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Serge Traore",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Christian Coulibaly",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Emmanuel Gnagne",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Sylvie Gnagne",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jacques Yao",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Celestine Yao",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Patrice Ake",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Christian Camara",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Sylvie Kone",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Monique Traore",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Veronique Toure",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Emmanuel Toure",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Celestine Traore",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Jean-Baptiste Diallo",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Emmanuel Assoumou",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Pierre Kouassi",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Philippe Brou",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Olivier Camara",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Christiane Yao",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Emmanuel Traore",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Celestine Kone",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Marie Assoumou",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Francoise Yao",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Jacques Traore",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Celestine Camara",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Isabelle Assoumou",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Jean-Baptiste Diallo",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Pierre Brou",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Emmanuel Doumbia",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Patrice Toure",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Christiane Yao",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Veronique Bamba",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Christine Brou",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Serge Toure",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Jean-Baptiste Tape",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Emmanuel Traore",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Olivier Kone",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Emmanuel Coulibaly",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Sylvie Doumbia",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Christian Ouedraogo",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Monique Yao",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Michel Doumbia",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Philippe Yao",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Isabelle Ake",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Jacques Camara",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Veronique Coulibaly",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Philippe Traore",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Pierre Konate",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Celestine Bamba",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Jean-Baptiste Ake",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Michel Bamba",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Veronique Tape",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Isabelle N'Guessan",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Olivier Bamba",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Christine Soro",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Jean-Baptiste Toure",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Christiane Kone",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Nadege Brou",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Marie Traore",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Marie Assoumou",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Christine Tape",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Veronique Konate",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jean-Baptiste Konate",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Jean-Baptiste Gnagne",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Marie Yao",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Sylvie Ake",
+        "goal": "stress_relief",
+        "activity_level": "high",
+        "workout": "Yoga",
+        "duration_min": 60,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 60-min Yoga session today."
+    },
+    {
+        "user": "Christiane Diallo",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Sylvie Konate",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Nadege Diallo",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Nadege Traore",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Sylvie Tape",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jean-Baptiste Assoumou",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Jacques Traore",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Marie Kouassi",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Michel Konate",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Philippe Yao",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Christiane Assoumou",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Philippe Gnagne",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Philippe Ouedraogo",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Francoise N'Guessan",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Jacques Camara",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jacques Soro",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Pierre N'Guessan",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Michel Bamba",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Jacques Tape",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Christiane Diarra",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Pierre N'Guessan",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Olivier N'Guessan",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Veronique Coulibaly",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Christiane Yao",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Veronique Diarra",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Pierre Bamba",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Philippe Camara",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Isabelle Doumbia",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Serge Toure",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Olivier Bamba",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Olivier Tape",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Sylvie Diarra",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Nadege N'Guessan",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Olivier Toure",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Christine Kone",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Jean-Baptiste Tape",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Patrice Toure",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Michel Diallo",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Christian Brou",
+        "goal": "general_fitness",
+        "activity_level": "high",
+        "workout": "Tabata",
+        "duration_min": 30,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 30-min Tabata session today."
+    },
+    {
+        "user": "Pierre Konate",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Nadege Bamba",
+        "goal": "strength",
+        "activity_level": "high",
+        "workout": "Heavy Lifting",
+        "duration_min": 60,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 60-min Heavy Lifting session today."
+    },
+    {
+        "user": "Philippe Konate",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Veronique Konate",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Olivier Ake",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Christine Diarra",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Celestine Yao",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Isabelle Kone",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
+    },
+    {
+        "user": "Monique Camara",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Sylvie Soro",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Monique Ouedraogo",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Serge Gnagne",
+        "goal": "cardio",
+        "activity_level": "high",
+        "workout": "Running",
+        "duration_min": 45,
+        "calories_target": 450,
+        "message": "Based on your activity, try a 45-min Running session today."
+    },
+    {
+        "user": "Serge Gnagne",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Jean-Baptiste Konate",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Marie Doumbia",
+        "goal": "weight_loss",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Veronique N'Guessan",
+        "goal": "muscle_gain",
+        "activity_level": "high",
+        "workout": "Weight Lifting",
+        "duration_min": 60,
+        "calories_target": 420,
+        "message": "Based on your activity, try a 60-min Weight Lifting session today."
+    },
+    {
+        "user": "Olivier Diallo",
+        "goal": "endurance",
+        "activity_level": "medium",
+        "workout": "Swimming",
+        "duration_min": 45,
+        "calories_target": 380,
+        "message": "Based on your activity, try a 45-min Swimming session today."
+    },
+    {
+        "user": "Veronique Bamba",
+        "goal": "flexibility",
+        "activity_level": "high",
+        "workout": "Advanced Yoga",
+        "duration_min": 60,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 60-min Advanced Yoga session today."
+    },
+    {
+        "user": "Nadege Bamba",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Christine Yao",
+        "goal": "muscle_gain",
+        "activity_level": "medium",
+        "workout": "Resistance Bands",
+        "duration_min": 45,
+        "calories_target": 280,
+        "message": "Based on your activity, try a 45-min Resistance Bands session today."
+    },
+    {
+        "user": "Jean-Baptiste Diarra",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Celestine Brou",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Michel Diallo",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Philippe Soro",
+        "goal": "general_fitness",
+        "activity_level": "medium",
+        "workout": "Circuit Training",
+        "duration_min": 40,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 40-min Circuit Training session today."
+    },
+    {
+        "user": "Monique Konate",
+        "goal": "stress_relief",
+        "activity_level": "medium",
+        "workout": "Dancing",
+        "duration_min": 40,
+        "calories_target": 250,
+        "message": "Based on your activity, try a 40-min Dancing session today."
+    },
+    {
+        "user": "Michel Diallo",
+        "goal": "strength",
+        "activity_level": "medium",
+        "workout": "Strength Training",
+        "duration_min": 45,
+        "calories_target": 300,
+        "message": "Based on your activity, try a 45-min Strength Training session today."
+    },
+    {
+        "user": "Philippe Kone",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Francoise Kone",
+        "goal": "cardio",
+        "activity_level": "medium",
+        "workout": "Cycling",
+        "duration_min": 40,
+        "calories_target": 350,
+        "message": "Based on your activity, try a 40-min Cycling session today."
+    },
+    {
+        "user": "Christine Doumbia",
+        "goal": "endurance",
+        "activity_level": "high",
+        "workout": "Long Distance Run",
+        "duration_min": 60,
+        "calories_target": 500,
+        "message": "Based on your activity, try a 60-min Long Distance Run session today."
+    },
+    {
+        "user": "Celestine Ake",
+        "goal": "flexibility",
+        "activity_level": "medium",
+        "workout": "Pilates",
+        "duration_min": 45,
+        "calories_target": 200,
+        "message": "Based on your activity, try a 45-min Pilates session today."
+    },
+    {
+        "user": "Francoise Diarra",
+        "goal": "weight_loss",
+        "activity_level": "high",
+        "workout": "HIIT",
+        "duration_min": 30,
+        "calories_target": 400,
+        "message": "Based on your activity, try a 30-min HIIT session today."
     }
 ]

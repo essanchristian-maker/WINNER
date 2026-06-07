@@ -66,7 +66,7 @@ def generate_logs(n_days: int, start_date: date) -> list:
     return logs
 
 
-def generate_users(n_users: int = 10) -> list:
+def generate_users(n_users: int = 500) -> list:
     """Generate n_users synthetic user profiles."""
     users = []
     for _ in range(n_users):

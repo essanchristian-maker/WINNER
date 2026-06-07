@@ -21,7 +21,7 @@ def main():
     users = load_users()
     if not users:
         print("No users found. Generating...")
-        users = generate_users(n_users=50)
+        users = generate_users(n_users=500)
         save_users(users)
 
     # 2. Generate daily workout plan for each user
