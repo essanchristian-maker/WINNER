@@ -15,8 +15,8 @@ def main():
     print("=============================")
 
     # 1. Simulate 500 users automatically with NumPy
-    print("\n--- Generating 500 simulated users (NumPy) ---")
-    users = generate_users(n_users=500)
+    print("\n--- Generating 10 simulated users (NumPy) ---")
+    users = generate_users(n_users=10)
     for u in users:
         print(f"  → {u.name} | Age: {u.age} | Goal: {u.goal} | Logs: {len(u.daily_logs)}")
 
