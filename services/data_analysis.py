@@ -1,11 +1,3 @@
-"""
-services/data_analysis.py
-==========================
-Partie 2 du barème :
-- 2.1 Génération des données avec NumPy et Pandas (5 pts)
-- 2.2 Nettoyage des données (5 pts)
-- 2.3 Analyse exploratoire des données EDA (10 pts)
-"""
 
 import pandas as pd
 import numpy as np
