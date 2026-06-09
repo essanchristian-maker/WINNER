@@ -4,7 +4,7 @@ test_step3.py
 Ce fichier teste et démontre le prétraitement
 et l'analyse exploratoire des données de FitTracker.
 
-Il suit la structure demandée par l'encadrant :
+
 - Bloc 1 : Importation des librairies
 - Bloc 2 : Collecte des données
 - Bloc 3 : Prétraitement des données

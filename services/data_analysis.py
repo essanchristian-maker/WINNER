@@ -29,7 +29,8 @@ def users_to_dataframe(users: list) -> pd.DataFrame:
     # Pour chaque utilisateur, on parcourt tous ses journaux quotidiens
     for user in users:
         for log in user.daily_logs:
-            # On crée une ligne avec les infos de l'utilisateur et les données de son journal du jour
+            # On crée une ligne avec les infos de l'utilisateur
+            # et les données de son journal du jour
             rows.append({
                 "name"    : user.name,     # Nom de l'utilisateur
                 "age"     : user.age,      # Âge (peut être None)
@@ -68,12 +69,9 @@ def clean_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     df["age"]      = df["age"].fillna(df["age"].median())
 
     # Remplace les workouts manquants par la valeur la plus fréquente (mode)
-    # Ex : si "Swimming" est le workout le plus fréquent, il remplace les None
     df["workout"]  = df["workout"].fillna(df["workout"].mode()[0])
 
     # Supprime les outliers dans steps avec le Z-score
-    # Le Z-score mesure à combien d'écarts-types une valeur
-    # est éloignée de la moyenne
     # Z-score > 3 = valeur aberrante (ex: 80 000 pas en une journée)
     mean  = df["steps"].mean()
     std   = df["steps"].std()
@@ -86,11 +84,6 @@ def clean_dataframe(df: pd.DataFrame) -> pd.DataFrame:
 
 
 # ── BLOC 4 : Analyse descriptive ──────────────────────────────────────────────
-# On calcule les statistiques clés pour comprendre les données :
-# - Statistiques descriptives (moyenne, médiane, écart-type...)
-# - Distribution des objectifs et des entraînements
-# - Progression hebdomadaire (pas, calories)
-# - Moyennes par objectif fitness
 
 def exploratory_analysis(df: pd.DataFrame) -> dict:
     """
@@ -98,37 +91,29 @@ def exploratory_analysis(df: pd.DataFrame) -> dict:
     Retourne un dictionnaire contenant toutes les statistiques clés.
     """
 
-    # Dictionnaire qui va stocker tous les résultats
     eda = {}
 
-    # ── Statistiques descriptives ──────────────────────────────────────────
-    # describe() calcule : count, mean, std, min, 25%, 50%, 75%, max
+    # Statistiques descriptives
     eda["summary"] = df[["age", "steps", "calories"]].describe().round(2)
 
-    # ── Distribution des objectifs ─────────────────────────────────────────
-    # Compte combien d'utilisateurs ont chaque objectif fitness
+    # Distribution des objectifs
     eda["goals_distribution"] = df["goal"].value_counts()
 
-    # ── Distribution des entraînements ────────────────────────────────────
-    # Compte combien de fois chaque type d'entraînement apparaît
+    # Distribution des entraînements
     eda["workouts_distribution"] = df["workout"].value_counts()
 
     # ── Progression hebdomadaire ───────────────────────────────────────────
-    # Convertit la colonne date en format datetime pour extraire la semaine
-    df["date"] = pd.to_datetime(df["date"])
+    # format="mixed" accepte tous les formats de date
+    # dayfirst=True pour les dates du type 14/05/2026
+    df["date"] = pd.to_datetime(df["date"], format="mixed", dayfirst=True)
     df["week"] = df["date"].dt.isocalendar().week
 
-    # Total des pas par semaine (somme de tous les utilisateurs)
+    # Total des pas et calories par semaine
     eda["weekly_steps"]    = df.groupby("week")["steps"].sum()
-
-    # Total des calories par semaine
     eda["weekly_calories"] = df.groupby("week")["calories"].sum()
 
-    # ── Moyennes par objectif ──────────────────────────────────────────────
-    # Moyenne des pas selon l'objectif fitness
+    # Moyennes par objectif
     eda["avg_steps_by_goal"]    = df.groupby("goal")["steps"].mean().round(2)
-
-    # Moyenne des calories selon l'objectif fitness
     eda["avg_calories_by_goal"] = df.groupby("goal")["calories"].mean().round(2)
 
     return eda
