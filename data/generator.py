@@ -6,6 +6,21 @@ en utilisant uniquement NumPy.
 Les données simulées reproduisent des comportements réels :
 valeurs manquantes, valeurs aberrantes, journaux irréguliers.
 """
+# Ce qui a été généré :
+# - 500 profils utilisateurs avec prénoms français et noms africains
+# - 8 objectifs fitness différents (strength, cardio, weight_loss...)
+# - 20 types d'entraînements (Running, HIIT, Yoga, Football...)
+# - Entre 7 et 30 journaux quotidiens par utilisateur
+# - Des pas entre 2 000 et 12 000 par jour
+# - Des calories entre 150 et 600 par jour
+#
+# Imperfections introduites intentionnellement :
+# - 5% de valeurs manquantes sur steps, calories, workout et age
+# - 3% de valeurs aberrantes sur steps (entre 50 000 et 150 000)
+#
+# Toutes les données sont sauvegardées dans data/users.json
+
+
 
 import numpy as np
 from datetime import date, timedelta
