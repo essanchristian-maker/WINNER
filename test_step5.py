@@ -1,11 +1,15 @@
 """
 test_step5.py
 =============
-Tests Step 5 : Matplotlib visualizations.
-Point 4 du sujet :
-- Line plots : steps and calories over time
-- Bar plots : workout frequency
+Ce fichier teste la Question 4 du sujet FitTracker :
+Analyse et visualisation des données avec Matplotlib.
+
+Les 2 visualisations créées :
+- Line plot : évolution des pas et calories dans le temps
+- Bar plot  : fréquence des types d'entraînements
 """
+
+# ── BLOC 1 : Importation des librairies ───────────────────────────────────────
 
 from data.file_handler      import load_users, save_users
 from data.generator         import generate_users
@@ -17,34 +21,44 @@ from visualizations.charts  import (
 
 
 def main():
-    print("=============================")
-    print("  FitTracker — Step 5 Test   ")
-    print("     Visualizations          ")
-    print("=============================")
+    print("=" * 50)
+    print("  FitTracker — Question 4 : Visualisations")
+    print("=" * 50)
 
-    # 1. Load and prepare data
+    # ── BLOC 2 : Collecte et préparation des données ──────────────────────────
+    print("\n[Bloc 2] Chargement et préparation des données...")
     users = load_users()
     if not users:
-        print("No users found. Generating...")
-        users = generate_users(n_users=50)
+        print("Aucun utilisateur trouvé. Génération en cours...")
+        users = generate_users(n_users=500)
         save_users(users)
 
     df       = users_to_dataframe(users)
     df_clean = clean_dataframe(df.copy())
+    print(f"✅ {len(df_clean)} journaux prêts pour la visualisation.")
 
-    # 2. Select user with most logs
+    # Sélection de l'utilisateur avec le plus de logs
     user_name = df_clean["name"].value_counts().index[0]
-    print(f"\nSelected user : {user_name} ({len(df_clean[df_clean['name'] == user_name])} logs)")
+    n_logs    = len(df_clean[df_clean["name"] == user_name])
+    print(f"\n  Utilisateur sélectionné : {user_name} ({n_logs} logs)")
 
-    # 3. Line plots — steps and calories over time
-    print("\n--- Line plots : Steps and Calories Over Time ---")
+    # ── VISUALISATION 1 : Line Plot ───────────────────────────────────────────
+    # Montre l'évolution des pas et calories dans le temps
+    # Inclut : valeur max, min et ligne de moyenne
+    print("\n--- VISUALISATION 1 : Line Plot ---")
     plot_steps_and_calories(df_clean, user_name)
 
-    # 4. Bar plot — workout frequency
-    print("\n--- Bar plot : Workout Frequency ---")
+    # ── VISUALISATION 2 : Bar Plot ────────────────────────────────────────────
+    # Montre la fréquence de chaque entraînement
+    # Inclut : valeurs sur les barres et ligne de moyenne
+    print("\n--- VISUALISATION 2 : Bar Plot ---")
     plot_workout_frequency(df_clean)
 
-    print("\n All visualizations saved to visualizations/")
+    print("\n" + "=" * 50)
+    print("  ✅ Visualisations sauvegardées !")
+    print("  → visualizations/line_plot.png")
+    print("  → visualizations/bar_plot.png")
+    print("=" * 50)
 
 
 if __name__ == "__main__":
