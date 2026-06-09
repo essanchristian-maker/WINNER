@@ -7,6 +7,9 @@ and tracks progress over time using data analysis and visualization.
 
 ## Project Structure
 
+## Project Structure
+
+```
 WINNER/
 ├── models/
 │   └── user.py              # User and DailyLog classes (OOP)
@@ -25,6 +28,7 @@ WINNER/
 │   └── bar_plot.png         # Workout frequency
 ├── main.py                  # Entry point
 └── README.md
+```
 
 
 ---

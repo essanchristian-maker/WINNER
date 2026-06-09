@@ -63,7 +63,7 @@ def plot_steps_and_calories(df: pd.DataFrame, user_name: str):
     plt.tight_layout()
     plt.savefig("visualizations/line_plot.png")
     plt.close()
-    print("✅ Line plot saved to visualizations/line_plot.png")
+    print(" Line plot saved to visualizations/line_plot.png")
 
 
 # ── Bar plots ──────────────────────────────────────────────────────────────────
@@ -90,4 +90,4 @@ def plot_workout_frequency(df: pd.DataFrame):
     plt.tight_layout()
     plt.savefig("visualizations/bar_plot.png")
     plt.close()
-    print("✅ Bar plot saved to visualizations/bar_plot.png")
+    print(" Bar plot saved to visualizations/bar_plot.png")
