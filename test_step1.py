@@ -1,39 +1,58 @@
 """
 test_step1.py
 =============
-Tests Step 1 : User profiles simulation and JSON persistence.
+Ce fichier teste la Question 1 du sujet FitTracker :
+- Création des profils utilisateurs avec NumPy
+- Persistance des données en JSON
+- Vérification des données générées
 """
 
-import json
-from data.generator    import generate_users
-from data.file_handler import save_users, load_users
+# ── BLOC 1 : Importation des librairies ───────────────────────────────────────
+
+import json                            # formatage et affichage du JSON
+from data.generator    import generate_users  # génération des profils NumPy
+from data.file_handler import save_users, load_users  # persistance JSON
 
 
 def main():
-    print("=============================")
-    print("   FitTracker — Step 1 Test  ")
-    print("=============================")
+    print("=" * 50)
+    print("   FitTracker — Question 1 : Profils Utilisateurs")
+    print("=" * 50)
 
-    # 1. Simulate 500 users automatically with NumPy
-    print("\n--- Generating 20 simulated users (NumPy) ---")
+    # ── BLOC 2 : Collecte des données ─────────────────────────────────────────
+    # Génération synthétique de 500 profils utilisateurs avec NumPy
+    # Chaque profil contient : nom, âge, objectif, journaux quotidiens
+    # seed=42 garantit les mêmes données à chaque exécution
+
+    print("\n[Bloc 2] Génération des profils utilisateurs...")
     users = generate_users(n_users=500)
+
+    # Affichage de chaque profil généré
     for u in users:
         print(f"  → {u.name} | Age: {u.age} | Goal: {u.goal} | Logs: {len(u.daily_logs)}")
 
-    # 2. Stats on generated data
-    print("\n--- Dataset Overview ---")
+    # ── BLOC 3 : Aperçu du dataset généré ────────────────────────────────────
+    print("\n[Bloc 3] Aperçu du dataset généré")
+    print("-" * 40)
+
+    # Distribution des objectifs fitness
+    # Compte combien d'utilisateurs ont chaque objectif
     goals_count = {}
     for u in users:
         goals_count[u.goal] = goals_count.get(u.goal, 0) + 1
-    print(f"  Goals distribution : {goals_count}")
+    print(f"\n  Distribution des objectifs : {goals_count}")
 
+    # Distribution des entraînements
+    # Compte combien de fois chaque workout apparaît dans les logs
     workouts_count = {}
     for u in users:
         for log in u.daily_logs:
             if log.workout:
                 workouts_count[log.workout] = workouts_count.get(log.workout, 0) + 1
-    print(f"  Workouts distribution : {workouts_count}")
+    print(f"\n  Distribution des entraînements : {workouts_count}")
 
+    # Valeurs manquantes intentionnellement introduites (5%)
+    # Simulent des données réelles incomplètes
     missing_steps = sum(
         1 for u in users
         for log in u.daily_logs
@@ -45,19 +64,29 @@ def main():
         if log.calories is None
     )
     missing_age = sum(1 for u in users if u.age is None)
-    print(f"  Missing steps    : {missing_steps}")
-    print(f"  Missing calories : {missing_calories}")
-    print(f"  Missing ages     : {missing_age}")
 
-    # 3. Save to JSON
+    print(f"\n  Valeurs manquantes :")
+    print(f"  - Steps    : {missing_steps}")
+    print(f"  - Calories : {missing_calories}")
+    print(f"  - Ages     : {missing_age}")
+
+    # ── Sauvegarde en JSON ────────────────────────────────────────────────────
+    # Tous les profils sont sauvegardés dans data/users.json
+    # pour être rechargés à chaque démarrage de l'application
+    print("\n[Sauvegarde] Écriture dans data/users.json...")
     save_users(users)
 
-    # 4. Reload from JSON
+    # ── Rechargement depuis JSON ──────────────────────────────────────────────
+    # Vérifie que la sauvegarde et le chargement fonctionnent correctement
+    print("\n[Rechargement] Lecture depuis data/users.json...")
     loaded_users = load_users()
-    print(f"\n Total users loaded : {len(loaded_users)}")
+    print(f"✅ Total utilisateurs rechargés : {len(loaded_users)}")
 
-    # 5. Sample user JSON
-    print(f"\nSample user JSON :")
+    # ── Exemple de profil au format JSON ─────────────────────────────────────
+    # Affiche le premier utilisateur dans le format JSON exact
+    # demandé par le sujet :
+    # {"name": "Alice", "age": 30, "goal": "strength", "daily_logs": [...]}
+    print(f"\n[Exemple] Premier profil au format JSON :")
     print(json.dumps(loaded_users[0].to_dict(), indent=4))
 
 
